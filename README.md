@@ -43,8 +43,8 @@ A luxurious, modern, and professional developer portfolio website for **Mohith K
 5. **Featured Projects (Compact, Text-Only Layout)**:
    - Exactly 3 authentic software systems:
      1. **01. AI Companion** — Personal intelligent assistant with context-aware dialogue and API orchestration.
-     2. **02. Alpha Chatbox** — AI-powered chatbot with a robot-inspired UI, powered by FastAPI and Groq API.
-     3. **03. Japan Tour Website** — Cinematic travel web platform showcasing Japanese destinations with a booking-oriented UI.
+     2. **02. Alpha Chatbox** — AI-powered chatbot with a robot-inspired UI, powered by FastAPI and Groq API. ([Live Demo](https://alpha-chatbot-one.vercel.app))
+     3. **03. Japan Tour Website** — Cinematic travel web platform showcasing Japanese destinations with a booking-oriented UI. ([Live Demo](https://japan-tour-blue.vercel.app/))
    - Compact text-first presentation with numbered labels, technology pills, and direct GitHub / Live Demo links without thumbnail clutter.
 
 6. **Contact Section**:

@@ -176,7 +176,7 @@ export const portfolioConfig: PortfolioConfig = {
         'Configurable system prompts and dialogue history persistence'
       ],
       githubUrl: 'https://github.com/Mohithkushakumar511/alpha-chatbox',
-      liveDemoUrl: '#',
+      liveDemoUrl: 'https://alpha-chatbot-one.vercel.app',
       metricsOrHighlights: [
         'Groq-powered ultra-fast conversational inference',
         'Custom robot-inspired conversational UI'
@@ -198,7 +198,7 @@ export const portfolioConfig: PortfolioConfig = {
         'Fully responsive mobile-friendly architecture across all viewports'
       ],
       githubUrl: 'https://github.com/Mohithkushakumar511/japan-tour',
-      liveDemoUrl: '#',
+      liveDemoUrl: 'https://japan-tour-blue.vercel.app/',
       metricsOrHighlights: [
         'Cinematic full-screen immersive travel UI',
         'Curated cultural itineraries and booking-focused layout'
